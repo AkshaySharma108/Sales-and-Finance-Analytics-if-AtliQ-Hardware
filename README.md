@@ -1,5 +1,5 @@
 # Sales-and-Finance-Analytics-if-AtliQ-Hardware
-Sales Report:
+Sales Report - 
 Project Goals:
 
 Customer Performance Report: Created a detailed report to assess customer performance.
@@ -10,7 +10,7 @@ Importance of Sales Data Analysis: Unveiling sales patterns, tracking essential 
 
 Reports' Role: Determining effective customer discounts, facilitating negotiations, and identifying expansion opportunities in potential markets.
 
-Finance Report:
+Finance Report - 
 Project Goals:
 
 Profit and Loss (P&L) Reports: Created P&L reports by fiscal years and P&L reports by fiscal months.
