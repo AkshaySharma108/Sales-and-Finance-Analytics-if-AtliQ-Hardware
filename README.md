@@ -1,4 +1,4 @@
-# Sales-and-Finance-Analytics-if-AtliQ-Hardware
+# Sales-and-Finance-Analytics-of-AtliQ-Hardware
 Sales Report - 
 Project Goals:
 
